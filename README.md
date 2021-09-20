@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
+This is the final assessment project for Udacity's React - Redux course. This app a web app that lets a user play the “Would You Rather?” game. This project solidify understanding of React and Redux, improving the predictability of the application’s state; establish strict rules for getting, listening, and updating the store; and identify what state should live inside of Redux and what state should live inside of React components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+login screen with option to select user
+option to logout any time
+option to vote on questions asked by other users
+option to create new questions
+option to see the leaderboard and being moved on the leaderbord by getting one point for each created / answered question
 
 ## Available Scripts
 
