@@ -6,6 +6,13 @@ The _DATA.js file represents a fake database and methods that let you access the
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+* login screen with option to select user
+* option to logout any time
+* option to vote on questions asked by other users
+* option to create new questions
+* option to see the leaderboard and being moved on the leaderbord by getting one point for each created / answered question
+
 ## About this Project?
 This project solidify understanding of React and Redux. Practice:
 
